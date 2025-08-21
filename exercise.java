@@ -14,8 +14,9 @@ public class exercise
     public static void main(String[] args) 
     {
         myclass obj=new myclass();
-        obj.add();
+        obj.add(); //edited
         
     }
     
 }
+
